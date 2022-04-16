@@ -173,7 +173,7 @@
   
 ## 🥝 Members  
 
-|[![](https://github.com/leechun1095.png?size=80)](https://github.com/leechun1095)|[![](https://github.com/KHJhub.png?size=80)](https://github.com/KHJhub) |[![](https://github.com/thfl868.png?size=80)](https://github.com/thfl868) | [![](https://github.com/plankton92.png?size=80)](https://github.com/plankton92) |  
+|[![](https://github.com/leechun1095.png?size=80)](https://github.com/leechun1095)|[![](https://github.com/KHJhub.png?size=80)](https://github.com/KHJhub) |[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) | [<img src="https://github.com/plankton92.png" width="80">](https://github.com/plankton92) |  
 |:---:|:---:|:---:|:---:|
 | 창헌 | 혜주 | 소리 | 지현 |  
 
@@ -183,9 +183,3 @@
 | 이한 | 초명 | - | - |  
 
 
-|[창헌](https://github.com/leechun1095)|[혜주](https://github.com/KHJhub)|[소리](https://github.com/thfl868)|[지현](https://github.com/plankton92) |  
-|:---:|:---:|:---:|:---:|
-
-
-|[이한](https://github.com/tpleehan)|[초명](https://github.com/DanielYY95) | - | - |  
-|:---:|:---:|:---:|:---:|
