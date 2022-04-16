@@ -4,4 +4,13 @@
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0. ~ 2022.05.08 : 스터디 일시, 진도 협의 & Setting
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️. 2022.05월 2째주 또는 3째주 (Google Meet) : Orientation  
 
-## 🏅 Members
+## 🏅 Members  
+
+|[![](https://github.com/leechun1095.png?size=80)](https://github.com/leechun1095)|[![](https://github.com/KHJhub.png?size=80)](https://github.com/KHJhub) |[![](https://github.com/thfl868.png?size=80)](https://github.com/thfl868) | [![](https://github.com/plankton92.png?size=80)](https://github.com/plankton92) |  
+|:---:|:---:|:---:|:---:|
+| 창헌 | 혜주 | 소리 | 지현 |  
+
+
+|[![](https://github.com/tpleehan.png?size=80)](https://github.com/tpleehan)|[![](https://github.com/DanielYY95.png?size=80)](https://github.com/DanielYY95)| | |  
+|:---:|:---:|:---:|:---:|
+| 이한 | 초명 | - | - |  
