@@ -14,3 +14,11 @@
 |[![](https://github.com/tpleehan.png?size=80)](https://github.com/tpleehan)|[![](https://github.com/DanielYY95.png?size=80)](https://github.com/DanielYY95)| | |  
 |:---:|:---:|:---:|:---:|
 | 이한 | 초명 | - | - |  
+
+
+|[창헌](https://github.com/leechun1095)|[혜주](https://github.com/KHJhub)|[소리](https://github.com/thfl868)|[지현](https://github.com/plankton92) |  
+|:---:|:---:|:---:|:---:|
+
+
+|[이한](https://github.com/tpleehan)|[초명](https://github.com/DanielYY95) | - | - |  
+|:---:|:---:|:---:|:---:|
