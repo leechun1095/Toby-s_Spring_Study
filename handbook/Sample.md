@@ -197,7 +197,6 @@ public UserDao() {
 * 설계도로서의 팩토리
   * 실질적인 로직역할 - UserDao, ConnectionMaker
   * 에플리케이션을 구성하는 컴포넌트의 구조와 관계를 정의한 설계도 - DaoFactory
-    그림
 
 ### 1.4.2. 오브젝트 팩토리의 활용
 
@@ -415,8 +414,7 @@ public UserDao() {
 ### 1.7.2. 런타임 의존관계 설정
 
 * 의존관계란?
-  * ![그림 1-10](readme_images/1-10.png)
-  * A 가 B에 의존한다 - 그림 1-10
+  * A 가 B에 의존한다
   * 의존대상(여기서 B) 가 변하면 그것이 A에 영향을 미침
   * B 의 기능이 추가,변경, 형식이 바뀌면? => A 가 영향을 받음
   * 의존관계는 방향성이 있음 
@@ -424,7 +422,6 @@ public UserDao() {
     * B는 A의 변화에 영향받지 않음
 
 * UserDao 예제
-  * ![그림 1-11](readme_images/1-11.png)
   * UserDao 가 ConnectionMaker 에 의존하고 있음
   * ConnectionMaker 인터페이스가 변한다면 그 영향을 UserDao 가 받음
   * 그러나 ConnectionMaker 인터페이스를 구현한 클래스를 다른 것(예-DConnectionMaker)으로 바꾸거나, 내부에 메소드에 변화가 생겨도 UserDao에 영향을 주지 않음
@@ -486,7 +483,6 @@ DaoFactory로 의존관계 오브젝트를 가져오는 코드
   * Decorator Pattern 을 적용
   * 아래 그림과 같이 Decorator역할의 CountingConnectionMaker 오브젝트를 DI 하면 끝!
 
-![그림 1-15](readme_images/1-15.png)
 
 ### 1.7.5. 메소드를 이용한 의존관계 주입
 
