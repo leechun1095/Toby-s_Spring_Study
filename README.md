@@ -251,8 +251,7 @@
 | 창헌 | 소리 | 지현 | 이한 |  
 
 
-|[![](https://github.com/DanielYY95.png?size=80)](https://github.com/DanielYY95)|[<img src="https://github.com/bontana033.png" width="80">](https://github.com/bontana033) |[<img src="https://github.com/seongjin3378.png" width="80">](https://github.com/seongjin3378) | |
+|[![](https://github.com/DanielYY95.png?size=80)](https://github.com/DanielYY95)|[<img src="https://github.com/bontana033.png" width="80">](https://github.com/bontana033) |[<img src="https://github.com/seongjin3378.png" width="80">](https://github.com/seongjin3378) |[![](https://github.com/CHRIS-AN.png?size=80)](https://github.com/CHRIS-AN)|
 |:---:|:---:|:---:|:---:|
 | 초명 | 수찬 | 성진 | 정민 |  
-
 
