@@ -247,12 +247,12 @@
   
 ## 🥝 Members  
 
-|[![](https://github.com/leechun1095.png?size=80)](https://github.com/leechun1095)|[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) | [<img src="https://github.com/plankton92.png" width="80">](https://github.com/plankton92) | [![](https://github.com/tpleehan.png?size=80)](https://github.com/tpleehan) |  
-|:---:|:---:|:---:|:---:|
-| 창헌 | 소리 | 지현 | 이한 |  
+|[![](https://github.com/leechun1095.png?size=80)](https://github.com/leechun1095)|[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) | [<img src="https://github.com/plankton92.png" width="80">](https://github.com/plankton92) | [![](https://github.com/tpleehan.png?size=80)](https://github.com/tpleehan) |[![](https://github.com/DanielYY95.png?size=80)](https://github.com/DanielYY95)|  
+|:---:|:---:|:---:|:---:|:---:|
+| 창헌 | 소리 | 지현 | 이한 | 초명 |  
 
 
-|[![](https://github.com/DanielYY95.png?size=80)](https://github.com/DanielYY95)|[<img src="https://github.com/bontana033.png" width="80">](https://github.com/bontana033) |[<img src="https://github.com/seongjin3378.png" width="80">](https://github.com/seongjin3378) |[![](https://github.com/CHRIS-AN.png?size=80)](https://github.com/CHRIS-AN)|
+|[<img src="https://github.com/bontana033.png" width="80">](https://github.com/bontana033) |[<img src="https://github.com/seongjin3378.png" width="80">](https://github.com/seongjin3378) |  |  |  
 |:---:|:---:|:---:|:---:|
-| 초명 | 수찬 | 성진 | 정민 |  
+| 수찬 | 성진 | 지호 | 경욱 |  
 
