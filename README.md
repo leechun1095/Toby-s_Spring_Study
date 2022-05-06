@@ -2,25 +2,25 @@
 
 ## 🍀 Toby's Spring Study
 ###### ✔  0. ~ 2022.05.01 19:40 ~ 20:30 : 스터디 일시, 진도 협의 & Setting
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️. 2022.05월 2째주 1.1 초난감 DAO ~ 1.4 제어의 역전(Ioc)
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. 2022.05월 3째주 1.5 ~ 1.8
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. 2022.05월 4째주 2.1 ~ 2.3.3
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. 2022.06월 1째주 2.3.4 ~ 2.5
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. 2022.06월 2째주 3.1 ~ 3.4
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. 2022.06월 3째주 3.5 ~ 3.6
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. 2022.06월 4째주 4.1 ~ 4.2
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. 2022.07월 1째주 5.1 ~ 5.2.2
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. 2022.07월 2째주 5.2.3 ~ 5.4
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. 2022.07월 3째주 6.1 ~ 6.3
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. 2022.07월 4째주 6.4 ~ 6.5
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️2. 2022.08월 1째주 6.6 ~ 6.8
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️3. 2022.08월 2째주 7.1 ~ 7.2
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️4. 2022.08월 3째주 7.3 ~ 7.5
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️5. 2022.08월 4째주 7.6
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️6. 2022.09월 1째주 8.1 ~ 8.4
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️7. 2022.09월 2째주 9.1 ~ 9.2
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️8. 2022.09월 3째주 9.3
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️9. 2022.09월 4째주 책거리 (오프라인)
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️. 2022.05.15(Sun) 21:00 ~ 23:00 1.1 초난감 DAO ~ 1.4 제어의 역전(Ioc)
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. 2022.05.22(Sun) 21:00 ~ 23:00 1.5 ~ 1.8
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. 2022.05.29(Sun) 21:00 ~ 23:00 2.1 ~ 2.3.3
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. 2022.06.05(Sun) 21:00 ~ 23:00 2.3.4 ~ 2.5
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. 2022.06.12(Sun) 21:00 ~ 23:00 3.1 ~ 3.4
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. 2022.06.19(Sun) 21:00 ~ 23:00 3.5 ~ 3.6
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. 2022.06.26(Sun) 21:00 ~ 23:00 4.1 ~ 4.2
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. 2022.07.03(Sun) 21:00 ~ 23:00 5.1 ~ 5.2.2
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. 2022.07.10(Sun) 21:00 ~ 23:00 5.2.3 ~ 5.4
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. 2022.07.17(Sun) 21:00 ~ 23:00 6.1 ~ 6.3
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. 2022.07.24(Sun) 21:00 ~ 23:00 6.4 ~ 6.5
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️2. 2022.08.07(Sun) 21:00 ~ 23:00 6.6 ~ 6.8
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️3. 2022.08.14(Sun) 21:00 ~ 23:00 7.1 ~ 7.2
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️4. 2022.08.21(Sun) 21:00 ~ 23:00 7.3 ~ 7.5
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️5. 2022.08.28(Sun) 21:00 ~ 23:00 7.6
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️6. 2022.09.04(Sun) 21:00 ~ 23:00 8.1 ~ 8.4
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️7. 2022.09.11(Sun) 21:00 ~ 23:00 9.1 ~ 9.2
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️8. 2022.09.18(Sun) 21:00 ~ 23:00 9.3
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️9. 2022.09.25(Sun) 책거리 (오프라인)
 <br/>  
   
 ## 🍊 Handbook  
@@ -247,12 +247,12 @@
   
 ## 🥝 Members  
 
-|[![](https://github.com/leechun1095.png?size=80)](https://github.com/leechun1095)|[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) | [<img src="https://github.com/plankton92.png" width="80">](https://github.com/plankton92) | [![](https://github.com/tpleehan.png?size=80)](https://github.com/tpleehan) |[![](https://github.com/DanielYY95.png?size=80)](https://github.com/DanielYY95)|  
+|[![](https://github.com/leechun1095.png?size=80)](https://github.com/leechun1095)|[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) | [<img src="https://github.com/plankton92.png" width="80">](https://github.com/plankton92) | [![](https://github.com/tpleehan.png?size=80)](https://github.com/tpleehan) |[![](https://github.com/DanielYY95.png?size=80)](https://github.com/DanielYY95)| [<img src="https://github.com/seongjin3378.png" width="80">](https://github.com/seongjin3378) |  
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 창헌 | 소리 | 지현 | 이한 | 초명 | 성진 |  
+
+
+|[<img src="https://github.com/k1mjiho.png" width="80">](https://github.com/k1mjiho) | [<img src="https://github.com/jjyu9312.png" width="80">](https://github.com/jjyu9312) | [<img src="https://github.com/cameobc.png" width="80">](https://github.com/cameobc) | [<img src="https://github.com/rlarltj.png" width="80">](https://github.com/rlarltj) | [<img src="https://github.com/oownus1.png" width="80">](https://github.com/oownus1) |  
 |:---:|:---:|:---:|:---:|:---:|
-| 창헌 | 소리 | 지현 | 이한 | 초명 |  
-
-
-|[<img src="https://github.com/bontana033.png" width="80">](https://github.com/bontana033) |[<img src="https://github.com/seongjin3378.png" width="80">](https://github.com/seongjin3378) |  |  |  
-|:---:|:---:|:---:|:---:|
-| 수찬 | 성진 | 지호 | 경욱 |  
+| 지호 | 경욱 | 민지 | 기서 | 선우 |  
 
